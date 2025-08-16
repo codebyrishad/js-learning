@@ -23,6 +23,7 @@
 
 
 // Rest Operator with Objects
+
 // let car={name:"bmw", model:"M5",year:2024};
 // let {name,...others} = car;
 // console.log(name)
