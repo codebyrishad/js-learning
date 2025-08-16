@@ -44,16 +44,16 @@
 // mycar.drive()
 
 
-function person(name){
-    this.name=name;
-    this.sayhello=function(){
-        console.log("hello from "+ this.name)
-    };
+// function person(name){
+//     this.name=name;
+//     this.sayhello=function(){
+//         console.log("hello from "+ this.name)
+//     };
 
-}
+// }
 
-let person2=new person("rishad");
-person2.sayhello()
+// let person2=new person("rishad");
+// person2.sayhello()
 
 
 
